@@ -1,3 +1,14 @@
+<img src="Dashboard .png" width="600">
+
+
+
+
+
+
+
+
+
+
 ****Sales Dashboard – Souza Stationery****
 
 Este projeto consiste na criação de um dashboard de vendas, desenvolvido com o objetivo de transformar dados brutos em informações visuais claras e estratégicas para análise de desempenho comercial.
